@@ -111,17 +111,17 @@ p {
   .cube {
     min-width: 400px;
     height: 100px;
-    transform-style: preserve-3d;
+    
   }
 
   .box {
     min-width: 400px;
-    transform-style: preserve-3d;
+  
   }
 
   .top {
     min-width: 400px;
-    transform-style: preserve-3d;
+    
   }
 
   .cube .box span {
