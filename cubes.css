@@ -26,8 +26,8 @@ body {
 
 .cube {
   position: relative;
-  width: 400px;
-  height: 100px;
+  min-width: 400px;
+  min-height: 100px;
   transform-style: preserve-3d;
   animation: animate 8s linear infinite;
   font-family: "caveat", cursive;
