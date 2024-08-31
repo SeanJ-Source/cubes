@@ -125,8 +125,8 @@ p {
   }
 
   .cube .box span {
-    min-width: 200px;
-    transform-style: preserve-3d;
+    min-width: 400px;
+    
   }
 }
 
