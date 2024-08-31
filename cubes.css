@@ -109,10 +109,10 @@ p {
 
 @media screen and (max-width: 450px) {
   .cube {
-    max-width: 500px;
+    min-width: 500px;
   }
   .box {
-    max-width: 500px;
+    min-width: 500px;
 }
 
 
