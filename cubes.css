@@ -109,18 +109,18 @@ p {
 
 @media screen and (max-width: 450px) {
   .cube {
-    max-width: 400px;
+    min-width: 400px;
     height: 100px;
     transform-style: preserve-3d;
   }
 
   .box {
-    max-width: 400px;
+    min-width: 400px;
     transform-style: preserve-3d;
   }
 
   .top {
-    max-width: 400px;
+    min-width: 400px;
     transform-style: preserve-3d;
   }
 
