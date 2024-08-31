@@ -109,12 +109,18 @@ p {
 
 @media screen and (max-width: 450px) {
   .cube {
-    min-width: 500px;
-    width:auto;
+    max-width: 400px;
+    height: 100px;
   }
+
   .box {
-    min-width: 500px;
-    width:auto;
+    max-width: 400px;
+
+  }
+
+  .top {
+    max-width: 400px;
+  }
 }
 
 
