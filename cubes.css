@@ -109,7 +109,7 @@ p {
 
 @media screen and (max-width: 450px) {
   .cube {
-    max-width: 600px;
+    max-width: 50vw;
 
   }
 }
